@@ -17,14 +17,7 @@ h3 {
 h4 {
     color: rgb(4, 50, 4);
 }
-img {
-    border-color: rgb(0, 0, 0);
-    border-style: dashed;
-    border: 10px;
-    border-image-width: 10px;
-    
 
-}
 a {
     text-decoration: none;
     background-color: lightpink;
