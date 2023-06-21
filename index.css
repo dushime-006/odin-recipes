@@ -1,0 +1,14 @@
+html {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    color: blueviolet;
+}
+li {
+    font-size: medium;
+}
+body {
+    list-style: none;
+}
