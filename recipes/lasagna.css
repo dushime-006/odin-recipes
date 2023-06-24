@@ -1,0 +1,37 @@
+html {
+    background-color: rgb(244, 228, 206);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 3%;
+
+}
+h1 {
+    color: blueviolet;
+    
+}
+h2 {
+    color: darkgoldenrod;
+}
+h3 {
+    color: darkslategrey;
+}
+h4 {
+    color: darkgreen;
+}
+img {
+    border-color: rgb(0, 0, 0);
+    border-style: dashed;
+    border: 10px;
+    border-image-width: 10px;
+    
+
+}
+a {
+    text-decoration: dashed;
+    background-color: lightblue;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+* {
+    border: 2px solid red;
+}
+
