@@ -2,6 +2,7 @@
 This is a new repository called odin-recipes
 it has been cloned into repos as required.
 Updated this file
+added css to the pages
 
 ## Hosted Odin Recipes 
 visit website: https://dushime-006.github.io/odin-recipes
