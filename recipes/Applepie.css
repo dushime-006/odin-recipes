@@ -1,0 +1,30 @@
+* {
+    
+    
+}
+
+html {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 3%;
+
+}
+h1 {
+    color: rgb(139, 10, 10);
+    
+}
+h2 {
+    color: rgb(54, 40, 4);
+}
+h3 {
+    color: rgb(3, 42, 42);
+}
+h4 {
+    color: rgb(4, 50, 4);
+}
+
+a {
+    text-decoration: none;
+    background-color: lightpink;
+    color: black;
+}
